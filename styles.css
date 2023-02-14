@@ -1,11 +1,7 @@
-.light-blue{
-    background-color: lightblue;
-    border: solid blue 15px;
+div{
+    background-color: rgb(173, 216, 230);
+    border: solid rgb(0, 0, 255) 15px;
     margin: 28px;
-    display: inline-block;
     padding: 58px;
-}
-
-p{
-    width: 300px;
+	width: 300px;
 }

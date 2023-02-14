@@ -1,2 +1,11 @@
+.light-blue{
+    background-color: lightblue;
+    border: solid blue 15px;
+    margin: 28px;
+    display: inline-block;
+    padding: 58px;
+}
 
-/* Your CSS Code here. */
+p{
+    width: 300px;
+}
